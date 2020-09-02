@@ -1,10 +1,10 @@
 {
   "type": "postgres",
   "host": "localhost",
-  "port": "5432/tcp",
+  "port": "5432:5432",
   "username": "postgres",
   "password": "postgresteacher",
-  "database": "postgres",
+  "database": "oteacher",
   "entities": [],
   "synchronize": true
 }
